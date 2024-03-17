@@ -1,14 +1,41 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": "e0b95a9c-94db-4994-add1-e06aa6e0df2b",
+        "code": "fot",
+        "departments": [
+            {
+                "id": "cb4ef9f-7e29-4e15-ba19-2aca9a45ed75",
+                "code": "ict",
+                "majors": [
+                    {
+                        "id": "a18c2ecc-a0e8-4f29-a12a-5041956e5859",
+                        "code": "sw"
+                    },
+                    {
+                        "id": "5bdd14d6-1904-43b8-8d2c-2a927431d8dd",
+                        "code": "net"
+                    }
+                ]
+            },
+            {
+                "id": "e9fb9423-e492-402c-b8fa-5531ff3fcd8f",
+                "code": "ren",
+                "majors": [
+                    {
+                        "id": "c6a9d0db-e806-46df-bdc5-ff501eced2b2",
+                        "code": "wind"
+                    },
+                    {
+                        "id": "d5b188f1-7d83-4a5c-a57b-0618f50fd816",
+                        "code": "solar"
+                    }
+                ]
+            },
+            {
+                "id": "0f5c44d1-afa5-48dc-911e-835695988fa2",
+                "code": "mec",
+                "majors": []
+            }
+        ]
+    }
+]
