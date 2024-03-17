@@ -1,4 +1,5 @@
-[
+{
+    "colleges": [
     {
         "id": "e0b95a9c-94db-4994-add1-e06aa6e0df2b",
         "code": "fot",
@@ -39,3 +40,4 @@
         ]
     }
 ]
+}
