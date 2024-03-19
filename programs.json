@@ -2,20 +2,24 @@
     {
         "id": "e6ec526e-928f-4e8e-9295-12ec9072dce9",
         "code": "aut",
+        "name": "Autotronics",
         "children": []
     },
     {
         "id": "a3a6c7c8-e4f2-4de4-b3fe-88f554476dc3",
         "code": "ict",
+        "name": "Information Technology",
         "children": [
             {
                 "id": "feb0fdae-89fe-4387-81af-0703b6d2b527",
                 "code": "ict-n",
+                "name": "ICT: Network",
                 "children": []
             },
             {
                 "id": "eba3ea91-7912-4147-9e98-6b5967c1dec2",
                 "code": "ict-d",
+                "name": "ICT: Software Development",
                 "children": []
             }
         ]
@@ -23,30 +27,36 @@
     {
         "id": "ab5bb790-edb9-4200-93b9-5f79cf04f98f",
         "code": "met",
+        "name": "Mechatronics",
         "children": []
     },
     {
         "id": "523887ff-df56-41e3-8eb7-cde4d8c59f35",
         "code": "pot",
+        "name": "Prosthetics and Orthotics",
         "children": []
     },
     {
         "id": "08f4750e-ed65-42a0-ae16-0a0328c79e86",
         "code": "ptp",
+        "name": "Petroluem Technology",
         "children": []
     },
     {
         "id": "576242d4-c503-40d2-baaa-ac2164fde367",
         "code": "ren",
+        "name": "Renewable Energy",
         "children": [
             {
                 "id": "096423b3-a21c-445e-acb4-c3cd54e3cdc6",
                 "code": "ren-se",
+                "name": "RE: Solar Energy",
                 "children": []
             },
             {
                 "id": "527ab2d2-34d6-4644-9c77-653e33a5c17d",
                 "code": "ren-we",
+                "name": "RE: Wind Energy",
                 "children": []
             }
         ]
